@@ -1,5 +1,4 @@
 import React from "react";
-import blogData from "../data/blog";
 import Article from "./Article";
 
 function ArticleList({posts}) {
